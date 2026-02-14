@@ -1,0 +1,48 @@
+# NotifyLink Terms and Conditions
+
+**Last Updated: February 14, 2026**
+
+These Terms and Conditions ("Terms") govern your use of NotifyLink's communication and notification service ("Service"). By using the Service, you agree to these Terms.
+
+### 1. The Service
+NotifyLink provides a messaging service for sending and receiving notifications and communications.
+
+### 2. Messaging Program
+**Program Name**: NotifyLink Messaging  
+**Description**: This is a notification service that delivers important updates and alerts via SMS and voice calls.
+
+**Message Frequency**: Messages are sent on an as-needed basis. Frequency may vary.
+
+**Message and Data Rates**: Message and data rates may apply.
+
+**Support**: For help, reply **HELP** to any message or email support@notifylink.com.
+
+**Opt-Out**: To stop receiving messages, reply **STOP** to any message at any time.
+
+### 3. Consent and Compliance
+By providing your phone number, you consent to receive messages from NotifyLink. You may revoke consent at any time by replying **STOP**.
+
+### 4. Limitations and Disclaimers
+The Service is provided "as is" and "as available" without warranties of any kind, express or implied. NotifyLink disclaims all warranties, including merchantability, fitness for a particular purpose, and non-infringement.
+
+NotifyLink is not liable for any damages arising from use of the Service, including direct, indirect, incidental, special, consequential, or punitive damages. In no event shall NotifyLink's total liability exceed the amount you paid for the Service in the past 12 months.
+
+Carriers are not liable for delayed or undelivered messages.
+
+### 5. Indemnification
+You agree to indemnify and hold NotifyLink harmless from any claims, losses, or damages arising from your use of the Service or violation of these Terms.
+
+### 6. Changes to Terms
+We may update these Terms. Continued use of the Service constitutes acceptance of the new Terms.
+
+### 7. Governing Law
+These Terms are governed by the laws of the State of Texas. Any disputes shall be resolved in Austin, Texas.
+
+**For more details, see our Privacy Policy.**
+
+### Contact Us
+Questions? Email support@notifylink.com
+
+NotifyLink  
+456 Tech Boulevard  
+Austin, TX 78701
