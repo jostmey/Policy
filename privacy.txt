@@ -1,0 +1,50 @@
+# NotifyLink Privacy Policy
+
+**Last Updated: February 14, 2026**
+
+NotifyLink ("we," "us," or "our") provides a communication and notification service.
+
+This Privacy Policy explains what personal information we collect, how we use it, and our practices regarding sharing and protection.
+
+### 1. Information We Collect
+We collect:
+- Contact information (names, phone numbers, email addresses)
+- Interaction data (calls, messages, transcripts, and logs)
+- Account and usage data
+
+### 2. How We Use Your Information
+We use this information only to operate the service:
+- Send communications and notifications
+- Process and log interactions
+- Maintain your account
+
+### 3. Sharing of Information
+**We do not sell, rent, or resell any personal data.**
+
+We share data only with trusted service providers who process it on our behalf:
+
+- **Twilio**: Handles phone calls, SMS, and messaging. See Twilio’s privacy policy: https://www.twilio.com/legal/privacy
+- **Google**: Provides cloud services for processing communications. See Google’s privacy policy: https://policies.google.com/privacy
+
+These partners are contractually obligated to protect the data and may not use it for their own purposes.
+
+**Mobile phone numbers and text messaging opt-in data** are used **only** to deliver the messages you have consented to receive. This information is never shared with any third parties or affiliates for marketing, promotional, or any other unrelated purposes.
+
+We do not share data with any other third parties except as required by law.
+
+### 4. Data Security
+We use industry-standard security to protect your information.
+
+### 5. Your Rights
+- Reply **STOP** to any text to opt out of messages.
+- Contact us at support@notifylink.com to request access, correction, or deletion of your data.
+
+### 6. Changes to This Policy
+We may update this policy. The new version will be posted here.
+
+### Contact Us
+Questions? Email support@notifylink.com
+
+NotifyLink  
+456 Tech Boulevard  
+Austin, TX 78701
